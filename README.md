@@ -19,5 +19,11 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
   
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/allen-robert-espinal-b308b0296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=CllgCJqbzllvcVZCSWfJgRGbTwgkSDrMTGtgcChkLXMpmdKZplxnKSXhFwhgGBMMmhKTrMGGkSq" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" alt="anirudhrai693" height="30" width="30" /></a>
+
 
 
